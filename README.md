@@ -75,7 +75,37 @@ Test cases are documented in `test_cases.md`.
 - Learned debugging and exception handling.
 - Developed small Python applications.
 - Improved code organization and documentation.
+## Git and GitHub Commands Explained
+
+Git was used to track project changes, maintain version history, and upload the project to GitHub.
+
+| Command | Explanation |
+|---|---|
+| `git init` | Initializes a new Git repository in the project folder. |
+| `git status` | Displays the current state of files and changes in the repository. |
+| `git add .` | Adds all project changes to the staging area. |
+| `git add README.md` | Adds the README file to the staging area. |
+| `git commit -m "message"` | Saves staged changes with a descriptive commit message. |
+| `git remote add origin URL` | Connects the local repository to a remote GitHub repository. |
+| `git remote -v` | Displays the configured remote repository URLs. |
+| `git push -u origin main` | Uploads local commits to the GitHub main branch and sets the upstream branch. |
+| `git log --oneline` | Displays the commit history in a compact format. |
+| `git pull` | Downloads and integrates changes from the remote repository. |
+
+### Git Workflow Followed
+
+1. Initialized the local repository using `git init`.
+2. Checked project changes using `git status`.
+3. Added project files using `git add`.
+4. Saved changes using `git commit`.
+5. Connected the local repository to GitHub using `git remote add origin`.
+6. Uploaded the project using `git push`.
+7. Verified the commit history and remote connection.
+
+Git and GitHub helped maintain an organized project history and made the completed Python internship work available online.
 
 ## Conclusion
 
-This project strengthened my Python programming knowledge through hands-on exercises and practical applications. It improved my logical thinking, problem-solving abilities, debugging skills, and understanding of software development fundamentals.
+## Conclusion
+
+This project strengthened my Python programming, problem-solving, and debugging skills through practical exercises and mini-projects. It also provided hands-on experience with VS Code, Git, and GitHub, building a strong foundation for developing real-world applications.
